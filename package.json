@@ -1,0 +1,30 @@
+{
+  "name": "csv-geo-mapper",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Browser-only CSV geospatial mapping app: import large CSVs, map, filter, colour and export CSV/KML.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b",
+    "make-samples": "node scripts/make-samples.mjs"
+  },
+  "dependencies": {
+    "@deck.gl/core": "^9.1.0",
+    "@deck.gl/layers": "^9.1.0",
+    "@deck.gl/mapbox": "^9.1.0",
+    "fflate": "^0.8.2",
+    "maplibre-gl": "^5.6.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.0"
+  }
+}

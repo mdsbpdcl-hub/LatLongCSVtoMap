@@ -1,0 +1,61 @@
+Consumer Number,Consumer Name,District,Division,Subdivision,Feeder,Category,Consumer Status,Connection Date,Outstanding Amount,Latitude,Longitude
+1100005000,Suresh Yadav,Bhagalpur,Naugachia,Naugachia Sub-2,NAUG-F06,Public Water Works,Connected,17/09/2024,23181,,86.819190
+1100005001,Kavita Kumar,Bhagalpur,Bhagalpur Urban,Bhagalpur Urban Sub-2,BHAG-F06,Public Water Works,Connected,02/10/2015,1684,25.063454,NA
+1100005002,Vikas Yadav,Munger,Tarapur,Tarapur Sub-3,TARA-F10,Agriculture,Connected,27/02/2024,208,86.443623,25.506271
+1100005003,Kavita Kumar,Bhojpur,Jagdishpur,Jagdishpur Sub-2,JAGD-F07,Non-Domestic,Temporary Disconnected,18/10/2023,0,0,0
+1100005004,Pooja Singh,Patna,Danapur,Danapur Sub-2,DANA-F09,Public Water Works,Connected,21/02/2018,9786,125.5,85.212637
+1100005005,Anita Gupta,Bhojpur,Piro,Piro Sub-2,PIRO-F09,Industrial LT,Connected,24/03/2024,551,25.503980,84.655610
+1100005006,Amit Devi,Aurangabad,Aurangabad,Aurangabad Sub-3,AURA-F07,Agriculture,Temporary Disconnected,28/08/2024,22,24.700297,84.282912
+1100005007,Mohan Yadav,Aurangabad,Daudnagar,Daudnagar Sub-3,DAUD-F01,Domestic,Connected,21/03/2018,5327,24.892077,84.371375
+1100005008,Suresh Singh,Munger,Tarapur,Tarapur Sub-2,TARA-F06,Industrial LT,Disconnected,04/08/2019,23883,25.487346,86.368155
+1100005009,Suresh Prasad,Munger,Tarapur,Tarapur Sub-3,TARA-F08,Domestic,Connected,10/03/2016,5194,25.524460,86.597169
+1100005010,Rajesh Jha,Bhojpur,Piro,Piro Sub-2,PIRO-F07,Domestic,Temporary Disconnected,20/06/2015,21642,,84.743668
+1100005011,Rajesh Sharma,Nalanda,Rajgir,Rajgir Sub-3,RAJG-F07,Non-Domestic,Connected,02/04/2023,15454,24.951457,NA
+1100005012,Anita Gupta,Aurangabad,Nabinagar,Nabinagar Sub-2,NABI-F02,Public Water Works,Connected,06/04/2015,117,84.319892,24.901954
+1100005013,Pooja Kumar,Aurangabad,Daudnagar,Daudnagar Sub-1,DAUD-F07,Domestic,Pending,23/06/2016,1982,0,0
+1100005014,Anita Devi,Bhojpur,Piro,Piro Sub-2,PIRO-F02,Non-Domestic,Temporary Disconnected,26/12/2015,551,125.5,84.473041
+1100005015,Suresh Sharma,Aurangabad,Aurangabad,Aurangabad Sub-2,AURA-F07,Domestic,Pending,25/11/2024,17255,24.661934,84.614552
+1100005016,Sita Jha,Rohtas,Dehri,Dehri Sub-2,DEHR-F07,Industrial LT,Connected,26/10/2024,1450,24.985037,84.247401
+1100005017,Amit Paswan,Aurangabad,Daudnagar,Daudnagar Sub-3,DAUD-F03,Agriculture,Pending,27/03/2020,1420,24.927595,84.359710
+1100005018,Amit Mishra,Rohtas,Bikramganj,Bikramganj Sub-3,BIKR-F11,Public Water Works,Temporary Disconnected,25/05/2022,9547,24.740176,83.887480
+1100005019,Suresh Devi,Aurangabad,Nabinagar,Nabinagar Sub-3,NABI-F01,Public Water Works,Connected,12/03/2021,4169,24.778817,84.275280
+1100005020,Suresh Kumar,Bhagalpur,Naugachia,Naugachia Sub-3,NAUG-F11,Domestic,Connected,01/02/2022,23905,,87.108135
+1100005021,Mohan Paswan,Rohtas,Bikramganj,Bikramganj Sub-2,BIKR-F10,Non-Domestic,Connected,22/04/2018,38,24.759554,NA
+1100005022,Ram Gupta,Rohtas,Sasaram,Sasaram Sub-2,SASA-F10,Industrial LT,Pending,14/10/2016,12269,84.168339,25.158267
+1100005023,Amit Sharma,Bhagalpur,Kahalgaon,Kahalgaon Sub-2,KAHA-F07,Non-Domestic,Connected,23/10/2018,5002,0,0
+1100005024,Suresh Mishra,Bhojpur,Jagdishpur,Jagdishpur Sub-3,JAGD-F10,Non-Domestic,Connected,12/04/2020,9209,125.5,84.474632
+1100005025,"Kavita Paswan, ""Bablu""",Bhojpur,Jagdishpur,Jagdishpur Sub-2,JAGD-F08,Agriculture,Connected,12/12/2021,3893,25.771336,84.801256
+1100005026,Rajesh Yadav,Bhagalpur,Bhagalpur Urban,Bhagalpur Urban Sub-2,BHAG-F10,Domestic,Connected,27/08/2019,167,25.486018,86.880756
+1100005027,Kavita Singh,Nalanda,Hilsa,Hilsa Sub-3,HILS-F08,Industrial LT,Connected,26/02/2022,2244,25.180616,85.576360
+1100005028,Anita Jha,Rohtas,Sasaram,Sasaram Sub-1,SASA-F12,Public Water Works,Pending,26/04/2023,121,25.083442,83.994827
+1100005029,Pooja Gupta,Rohtas,Sasaram,Sasaram Sub-2,SASA-F05,Domestic,Connected,16/11/2024,8425,25.103079,84.043426
+1100005030,Suresh Gupta,Bhojpur,Piro,Piro Sub-1,PIRO-F03,Domestic,Connected,15/08/2016,32,,84.667757
+1100005031,Mohan Mishra,Munger,Munger,Munger Sub-1,MUNG-F09,Non-Domestic,Temporary Disconnected,07/12/2023,24,25.397408,NA
+1100005032,Pooja Paswan,Bhojpur,Jagdishpur,Jagdishpur Sub-3,JAGD-F07,Public Water Works,Connected,19/07/2020,514,84.849938,25.680848
+1100005033,Pooja Sharma,Gaya,Gaya Urban,Gaya Urban Sub-1,GAYA-F08,Non-Domestic,Pending,14/09/2024,5395,0,0
+1100005034,Rajesh Kumar,Bhojpur,Jagdishpur,Jagdishpur Sub-2,JAGD-F02,Public Water Works,Disconnected,21/03/2019,13561,125.5,84.508523
+1100005035,Suresh Kumar,Nalanda,Hilsa,Hilsa Sub-3,HILS-F10,Public Water Works,Pending,13/12/2022,31,25.203656,85.487894
+1100005036,"Suresh Sharma, ""Bablu""",Bhojpur,Piro,Piro Sub-1,PIRO-F11,Non-Domestic,Connected,11/12/2020,0,25.320180,84.465342
+1100005037,Rajesh Kumar,Patna,Patna Central,Patna Central Sub-1,PATN-F06,Domestic,Connected,24/09/2017,5180,25.840510,85.069018
+1100005038,Vikas Paswan,Nalanda,Bihar Sharif,Bihar Sharif Sub-2,BIHA-F02,Industrial LT,Connected,07/07/2022,1324,25.081915,85.479754
+1100005039,Rajesh Kumar,Rohtas,Dehri,Dehri Sub-1,DEHR-F11,Non-Domestic,Connected,06/04/2019,11965,24.949690,83.827437
+1100005040,Rekha Devi,Gaya,Sherghati,Sherghati Sub-3,SHER-F04,Industrial LT,Temporary Disconnected,05/04/2017,10379,,85.233908
+1100005041,Vikas Sharma,Nalanda,Rajgir,Rajgir Sub-3,RAJG-F05,Domestic,Pending,17/01/2021,0,25.352906,NA
+1100005042,Kavita Gupta,Patna,Patna Central,Patna Central Sub-3,PATN-F09,Agriculture,Pending,08/05/2018,2460,85.172063,25.619316
+1100005043,Ram Prasad,Bhagalpur,Naugachia,Naugachia Sub-1,NAUG-F08,Domestic,Temporary Disconnected,18/03/2018,272,0,0
+1100005044,Rajesh Prasad,Rohtas,Dehri,Dehri Sub-2,DEHR-F12,Public Water Works,Connected,17/09/2016,4613,125.5,83.924202
+1100005045,Amit Paswan,Gaya,Tekari,Tekari Sub-3,TEKA-F08,Agriculture,Connected,11/06/2018,708,24.732732,84.971629
+1100005046,"Suresh Prasad, ""Bablu""",Bhagalpur,Bhagalpur Urban,Bhagalpur Urban Sub-3,BHAG-F11,Industrial LT,Connected,10/12/2022,2763,25.431199,86.931353
+1100005047,Kavita Yadav,Aurangabad,Daudnagar,Daudnagar Sub-3,DAUD-F02,Public Water Works,Connected,07/01/2023,2905,24.662035,84.147151
+1100005048,"Vikas Jha, ""Bablu""",Bhojpur,Piro,Piro Sub-1,PIRO-F12,Domestic,Connected,27/11/2016,17853,25.644165,84.414001
+1100005049,Suresh Singh,Bhojpur,Piro,Piro Sub-2,PIRO-F01,Domestic,Connected,07/09/2017,5428,25.583587,84.871899
+1100005050,Ram Sharma,Rohtas,Dehri,Dehri Sub-1,DEHR-F04,Agriculture,Connected,15/04/2023,3162,,83.790093
+1100005051,"Anita Kumar, ""Bablu""",Bhagalpur,Bhagalpur Urban,Bhagalpur Urban Sub-1,BHAG-F11,Industrial LT,Pending,04/10/2023,657,25.131347,NA
+1100005052,Suresh Singh,Aurangabad,Nabinagar,Nabinagar Sub-1,NABI-F09,Industrial LT,Connected,06/09/2021,0,84.214577,24.726286
+1100005053,Sunita Kumar,Rohtas,Bikramganj,Bikramganj Sub-2,BIKR-F10,Non-Domestic,Connected,18/05/2024,10703,0,0
+1100005054,Amit Paswan,Rohtas,Bikramganj,Bikramganj Sub-3,BIKR-F12,Industrial LT,Connected,23/05/2015,10042,125.5,84.112449
+1100005055,Vikas Kumar,Rohtas,Bikramganj,Bikramganj Sub-3,BIKR-F04,Industrial LT,Connected,10/12/2015,19116,24.779215,84.043355
+1100005056,Suresh Prasad,Rohtas,Dehri,Dehri Sub-1,DEHR-F07,Public Water Works,Connected,03/12/2017,672,25.036679,84.157158
+1100005057,Kavita Kumar,Bhagalpur,Kahalgaon,Kahalgaon Sub-3,KAHA-F12,Non-Domestic,Connected,16/03/2020,186,25.143187,86.819917
+1100005058,Vikas Paswan,Nalanda,Rajgir,Rajgir Sub-2,RAJG-F02,Non-Domestic,Connected,23/05/2022,3780,24.942104,85.227197
+1100005059,Sita Yadav,Aurangabad,Nabinagar,Nabinagar Sub-2,NABI-F02,Industrial LT,Connected,02/01/2018,121,24.828504,84.355202
